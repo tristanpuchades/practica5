@@ -1,0 +1,17 @@
+span.aprovats{
+    font-style: oblique;
+}
+span.tots{
+    font-weight: bold;
+}
+span.euros {
+    font-size: small;
+}
+span.no{
+    text-decoration: line-through;
+    color: blue;
+    font-weight: bold;
+}
+span.canis{
+    font-style: italic;
+}
